@@ -4,13 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="88872855-4699-4bf5-ac93-872a2d198da4" name="Changes" comment="">
+    <list default="true" id="2d14e972-ddb2-4f5a-be01-242a1ebcf504" name="更改" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pages/about.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/about.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pages/dropdown.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/dropdown.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pages/projects.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/projects.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pages/repositories.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/repositories.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pages/teaching.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/teaching.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_news/Panacea.md" beforeDir="false" afterPath="$PROJECT_DIR$/_news/Panacea.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,9 +20,10 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 6
 }</component>
-  <component name="ProjectId" id="2n4aEMJxO153duCq3obebC5rK0N" />
+  <component name="ProjectId" id="2n6yjE48G5gGwyAYjfMCqYHUOOe" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -37,7 +34,6 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/pycharm_project/xzhang2523.github.io&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -46,27 +42,18 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="SharedIndexes">
-    <attachedChunks>
-      <set>
-        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-PY-241.18034.82" />
-        <option value="bundled-python-sdk-975db3bf15a3-2767605e8bc2-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.18034.82" />
-      </set>
-    </attachedChunks>
-  </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
-    <task active="true" id="Default" summary="Default task">
-      <changelist id="88872855-4699-4bf5-ac93-872a2d198da4" name="Changes" comment="" />
-      <created>1728234692006</created>
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="2d14e972-ddb2-4f5a-be01-242a1ebcf504" name="更改" comment="" />
+      <created>1728307954273</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1728234692006</updated>
-      <workItem from="1728234692801" duration="4599000" />
-      <workItem from="1728270519343" duration="3816000" />
-      <workItem from="1728274502066" duration="1312000" />
-      <workItem from="1728279967611" duration="3557000" />
-      <workItem from="1728289976694" duration="5016000" />
+      <updated>1728307954273</updated>
+      <workItem from="1728307956539" duration="15000" />
+      <workItem from="1728308484662" duration="32000" />
+      <workItem from="1728310390286" duration="740000" />
+      <workItem from="1728315178025" duration="187000" />
     </task>
     <servers />
   </component>
