@@ -5,7 +5,7 @@ inline: true
 related_posts: false
 ---
 
-**Xiaoyuan Zhang\***, Liang Zhao\*, Yingying Yu\*, Xi Lin, Yifan Chen, Han Zhao, Qingfu Zhang. **LibMOON: A Gradient-based MultiObjective OptimizatioN Library in PyTorch** is accepted to *NeurIPS* 2024. 
+"**LibMOON: A Gradient-based MultiObjective OptimizatioN Library in PyTorch**" has been accepted at *NeurIPS* 2024. 
 
 
 [//]: # (---)
