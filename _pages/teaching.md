@@ -3,7 +3,7 @@ layout: page
 permalink: /teaching/
 title: Teaching
 description: Math, Computer Science, and Engineering courses I have taught or TAed.
-nav: false
+nav: true
 nav_order: 4
 ---
 

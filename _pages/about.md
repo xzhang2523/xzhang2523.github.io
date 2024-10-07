@@ -21,7 +21,7 @@ a [Ph.D. candidate](https://scholars.cityu.edu.hk/en/persons/xiaoyuan-zhang(6672
 at the Department of Computer Science, [CityUHK](https://www.cityu.edu.hk/).
 I will graduate in **April 2025** under the supervision
 of [Chair Prof. Zhang Qingfu](https://scholar.google.com/citations?user=nhL9PHwAAAAJ&hl=en) (IEEE Fellow).
-Before joining CityUHK, I received my B.E. (2017) and M.E. (2020) degrees in Engineering
+Before joining CityUHK, I received my B.E. (2017) and M.E. (2020) degrees
 from [Shanghai Jiao Tong University](https://me.sjtu.edu.cn/en/), where I was advised
 by [Prof. Qi Chenkun](https://ieeexplore.ieee.org/author/37529382400).
 I have also been fortunate to maintain long-term collaborations
@@ -32,7 +32,7 @@ the [University of Illinois at Urbana-Champaign](https://illinois.edu/).
 
 I focus on **_the theory, software implementation, and engineering applications of multi-objective optimization_**. 
 I have made many **theoretical advances** in Pareto set learning and developed [LibMOON](https://github.com/xzhang2523/libmoon), the first open-source, gradient-based library for large-scale multi-objective optimization. 
-Collaborating with a team from PKU, I applied this technique to train large language models (**LLMs**) with tens of billions of parameters, with results published at **NeurIPS 2024**.
+Collaborating with the team from PKU, I applied this technique to train large language models (**LLMs**) with tens of billions of parameters, with results published at **NeurIPS 2024**.
 
 ---
 
@@ -42,7 +42,7 @@ Collaborating with a team from PKU, I applied this technique to train large lang
     - ICLR 2025, AISTATS 2025, AAAI 2025
     - NeurIPS 2024, ICLR 2024, ICML 2024
     - ICLR 2023, NeurIPS 2023, ICML 2023
-    - ICLR 2022, NeurIPS 2022, ICML 20220
+    - ICLR 2022, NeurIPS 2022, ICML 2022
     - ICML 2021
 
 - Journal Reviews:
