@@ -22,3 +22,8 @@ Dr. Zhang Xiaoyuan is set to graduate early in April 2025 from the Department of
 Dr. Zhang’s research focuses on the theory, software implementation, and engineering applications of multi-objective optimization. He proposed the open-source software library LibMOON, the industry's first gradient-based multi-objective optimization library, capable of efficiently solving large-scale optimization problems with millions of parameters. His work was invited for presentation at multiple conferences and was published at the top-tier conference NeurIPS 2024. Additionally, he made significant theoretical contributions in Pareto set learning and, in collaboration with the Peking University team, was the first to apply Pareto set learning to large-scale model training with tens of billions of parameters. These results were also published at NeurIPS 2024.
 
 Dr. Zhang has published seven papers in NeurIPS/ICML, including four as the first author (one as co-first author), along with one IEEE Transactions paper. Several other papers are currently under review.
+
+
+Dr.Zhang's research interests include:
+- Multi-objective optimization for Machine Learning
+- Pareto set learning
