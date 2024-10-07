@@ -5,19 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="88872855-4699-4bf5-ac93-872a2d198da4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/_news/Hypervolume.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_news/Panacea.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_news/Uniform.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_news/announcement_1.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_news/announcement_2.md" beforeDir="false" afterPath="$PROJECT_DIR$/_news/LibMOON.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_news/announcement_3.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_news/announcement_4.md" beforeDir="false" afterPath="$PROJECT_DIR$/_news/announcement_4.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_news/announcement_5.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/_pages/about.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/about.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,7 +62,7 @@
       <workItem from="1728234692801" duration="4599000" />
       <workItem from="1728270519343" duration="3816000" />
       <workItem from="1728274502066" duration="1312000" />
-      <workItem from="1728279967611" duration="2671000" />
+      <workItem from="1728279967611" duration="3479000" />
     </task>
     <servers />
   </component>
