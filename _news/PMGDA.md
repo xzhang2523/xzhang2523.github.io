@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-"**PMGDA: A Preference-based Multiple Gradient Descent Algorithm**" has been accepted at *IEEE Transactions on Emerging Topics in Computing (TETCI)*. 
+"**PMGDA: A Preference-based Multiple Gradient Descent Algorithm**" has been accepted by IEEE Transactions on Emerging Topics in Computing *(**TETCI**)*,**first author**, _IF_=5.3.
 

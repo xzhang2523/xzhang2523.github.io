@@ -4,7 +4,7 @@ permalink: /teaching/
 title: Teaching
 description: Math, Computer Science, and Engineering courses I have taught or TAed.
 nav: false
-nav_order: 5
+nav_order: 4
 ---
 
 - CS2402 Intro to Comp Prob Modeling, 2021/22 Fall, Teaching assistant. 

@@ -5,6 +5,6 @@ inline: true
 related_posts: false
 ---
 
-"**Panacea: Pareto Alignment via Preference Adaptation for LLMs**" has been accepted at *NeurIPS* 2024.
+"**Panacea: Pareto Alignment via Preference Adaptation for LLMs**" has been accepted by ***NeurIPS 2024***.
 
  

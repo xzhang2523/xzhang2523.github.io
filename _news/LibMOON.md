@@ -5,7 +5,7 @@ inline: true
 related_posts: false
 ---
 
-"**LibMOON: A Gradient-based MultiObjective OptimizatioN Library in PyTorch**" has been accepted at *NeurIPS* 2024. 
+"**LibMOON: A Gradient-based MultiObjective OptimizatioN Library in PyTorch**" has been accepted by ***NeurIPS 2024***, **first author**.
 
 
 [//]: # (---)

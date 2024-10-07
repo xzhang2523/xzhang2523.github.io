@@ -1,0 +1,20 @@
+---
+layout: page
+permalink: /awards/
+title: Awards
+description: The following are some of the awards I have received
+nav: true
+nav_order: 2
+---
+#### Doctor of Philosophy (Ph.D.)
+- **Outstanding Academic Performance Award, 16 Aug. 2024** [(web)](https://scholars.cityu.edu.hk/en/prizes/outstanding-academic-performance-award-for-research-degree-students-non-ugcfunded-students(a36f6e6c-3556-4bdb-b65b-3aeb719f1122).html)
+- Postgraduate Studentship (19,200 HKD per month)
+- Institutional Research Tuition Scholarship (3,508 HKD per month) [(web)](https://scholars.cityu.edu.hk/en/prizes/institutional-research-tuition-scholarship(0d4d6e37-227e-4ead-a389-17b573efeb97).html)
+
+#### Bachelor of Engineering (B.E.) and Master of Engineering (M.E.)
+- **The Gold Medal of 9th World University Bridge Championship in 2018 (reported by China Sports General Administration)**.
+- China Undergraduate Mathematical Contest in Modeling (National second prize) in 2018.
+- **The first place (1/250) of the Beauty of Programming (BOP) Competition in 2017. Microsoft and IEEE** (100,000 CNY).
+- The Mathematical Contest in Modeling (World second prize) in 2017.
+- B-class Scholarship in 2016 (top 15% student) at Shanghai Jiao Tong University (1,500 CNY).
+- Yidian Scholarship in 2015  (top 5% students) at Shanghai Jiao Tong University (6,000 CNY).
