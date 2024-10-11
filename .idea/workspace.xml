@@ -6,7 +6,11 @@
   <component name="ChangeListManager">
     <list default="true" id="2d14e972-ddb2-4f5a-be01-242a1ebcf504" name="更改" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_bibliography/papers.bib" beforeDir="false" afterPath="$PROJECT_DIR$/_bibliography/papers.bib" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_news/Hypervolume.md" beforeDir="false" afterPath="$PROJECT_DIR$/_news/Hypervolume.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_news/LibMOON.md" beforeDir="false" afterPath="$PROJECT_DIR$/_news/LibMOON.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_news/PMGDA.md" beforeDir="false" afterPath="$PROJECT_DIR$/_news/PMGDA.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_news/Panacea.md" beforeDir="false" afterPath="$PROJECT_DIR$/_news/Panacea.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_news/Uniform.md" beforeDir="false" afterPath="$PROJECT_DIR$/_news/Uniform.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
