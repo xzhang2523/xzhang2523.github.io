@@ -36,6 +36,9 @@ Collaborating with the team from PKU, I applied this technique to train large la
 
 ---
 
+**I will graduate in the spring of 2025 and am currently on the job market.**
+
+
 **Academic service**
 
 - Conference Reviews:
