@@ -22,4 +22,4 @@ nav_order: 2
 
 *Bridge (桥牌)*
 - The Gold Medal of 9th World University Bridge Championship in 2018 (held by FISU, reported by China Sports General Administration). [(img)](https://xzhang2523.github.io/assets/img/Certificate/bridge/8.jpg)
-- The Gold Medal of National University Bridge Championship in 2017 (held by 中国大学生体育协会, reported by a lot of medias (e.g., Sina Weibo, SJTU)). [(img)](https://xzhang2523.github.io/assets/img/Certificate/bridge/6.jpg)
+- The Gold Medal of National University Bridge Championship in 2017 (held by FUSC(中国大学生体育协会), reported by a lot of medias (e.g., Sina Weibo, SJTU)). [(img)](https://xzhang2523.github.io/assets/img/Certificate/bridge/6.jpg)
