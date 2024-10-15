@@ -16,9 +16,9 @@ nav_order: 2
 - **The first place (1/250) of the Beauty of Programming (BOP) Competition in 2017. Microsoft and IEEE** (100,000 CNY). [(img1)](https://xzhang2523.github.io/assets/img/Certificate/program/14.jpg),[(img2)](https://xzhang2523.github.io/assets/img/Certificate/program/15.jpg) 
 - The Mathematical Contest in Modeling (World second prize) in 2017.
 - China Undergraduate Mathematical Contest in Modeling (National second prize) in 2018. [(img)](https://xzhang2523.github.io/assets/img/Certificate/modelling/18.jpg)
-- B-class Scholarship in 2016 (top 15% student) at Shanghai Jiao Tong University (1,500 CNY).
-- Yidian Scholarship in 2015  (top 5% students) at Shanghai Jiao Tong University (6,000 CNY).
-
+- B-class Scholarship in 2016 (top 15% student) at Shanghai Jiao Tong University (1,500 CNY).[(img)](https://xzhang2523.github.io/assets/img/Certificate/school/11.jpg)
+- Yidian Scholarship in 2015  (top 5% students) at Shanghai Jiao Tong University (6,000 CNY).[(img)](https://xzhang2523.github.io/assets/img/Certificate/school/10.jpg)
+- Outstanding graduates of Shanghai Jiao Tong University. [(img)](https://xzhang2523.github.io/assets/img/Certificate/school/12.jpg)
 
 *Bridge (桥牌)*
 - **The Gold Medal of 9th World University Bridge Championship in 2018 (held by FISU, reported by China Sports General Administration)**. [(img)](https://xzhang2523.github.io/assets/img/Certificate/bridge/8.jpg)
