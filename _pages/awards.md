@@ -12,9 +12,10 @@ nav_order: 2
 - Institutional Research Tuition Scholarship (3,508 HKD per month) [(web)](https://scholars.cityu.edu.hk/en/prizes/institutional-research-tuition-scholarship(0d4d6e37-227e-4ead-a389-17b573efeb97).html)
 
 *Bachelor of Engineering (B.E.) and Master of Engineering (M.E.)*
-- China Undergraduate Mathematical Contest in Modeling (National second prize) in 2018.
+- China Undergraduate Mathematical Contest in Modeling (National second prize) in 2016.
 - **The first place (1/250) of the Beauty of Programming (BOP) Competition in 2017. Microsoft and IEEE** (100,000 CNY). [(img1)](https://xzhang2523.github.io/assets/img/Certificate/program/14.jpg),[(img2)](https://xzhang2523.github.io/assets/img/Certificate/program/15.jpg) 
 - The Mathematical Contest in Modeling (World second prize) in 2017.
+- China Undergraduate Mathematical Contest in Modeling (National second prize) in 2018. [(img)](https://xzhang2523.github.io/assets/img/Certificate/modelling/18.jpg)
 - B-class Scholarship in 2016 (top 15% student) at Shanghai Jiao Tong University (1,500 CNY).
 - Yidian Scholarship in 2015  (top 5% students) at Shanghai Jiao Tong University (6,000 CNY).
 
