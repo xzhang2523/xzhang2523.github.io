@@ -36,7 +36,7 @@ Collaborating with the team from PKU, I applied this technique to train large la
 
 ---
 
-**I will graduate in the spring of 2025 and am currently on the job market ([CV](https://xzhang2523.github.io/assets/pdf/cv/english.pdf), [中文简历]((https://xzhang2523.github.io/assets/pdf/cv/chinese.pdf))).**
+**I will graduate in the spring of 2025 and am currently on the job market ([CV](https://xzhang2523.github.io/assets/pdf/cv/english.pdf), [中文简历](https://xzhang2523.github.io/assets/pdf/cv/chinese.pdf)).**
 
 
 **Academic service**
